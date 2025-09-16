@@ -1,0 +1,15 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+/* Header styles */
+header, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #fff;
+}
+
+/* Body text styles */
+body, p, span, li, td, th {
+    font-family: 'Montserrat', Arial, sans-serif;
+    color: #000;
+    background: #fff;
+}
